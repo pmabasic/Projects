@@ -1,0 +1,56 @@
+.button {
+    display: block;
+    margin: auto;
+    background-color: rebeccapurple;
+    padding: 15px 25px;
+    border: none;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: 700;
+    color: white;
+    margin-bottom: 50px;
+}
+
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0px;
+    padding: 0px;
+    background-color: gray
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    max-width: 600px;
+    justify-content: space-between;
+    margin: auto;
+}
+
+.title {
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 50px;
+    color: white;
+}
+
+.text {
+    padding: 5px 5px;
+    background-color: rebeccapurple;
+    border: none;
+    font-size: 20px;
+    color: white;
+}
+
+.select {
+    padding: 5px 5px;
+    font-size: 20px;
+    background-color:purple;
+    color: white;
+}
+
+.result {
+    padding-top: 60px;
+    text-align: center;
+    font-size: 30px;
+    color: white;
+}
